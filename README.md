@@ -5,6 +5,8 @@ Controller test scene with joystick and button mappings for a four sided sit dow
 
 Up to 4 players per monitor using identical joystick plus 6 button controllers.
 
+For Arduino software, see [uclagamelab/CocktailCabinet](https://github.com/uclagamelab/CocktailCabinet)
+
 
 ##Controller Positioning
 - Player 1 is positioned monitor left.
